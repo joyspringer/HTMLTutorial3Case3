@@ -1,0 +1,52 @@
+/* 
+
+    Gild Shipping
+    Layout Style Sheet
+
+    Author: Joy Springer
+    Date: 9/15/21
+
+*/
+
+/* body */
+
+body {
+      background-color: #c19b76;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 1.1em;
+  }
+
+/* Heading Styles */
+
+h1 {
+    font-style: italic;
+    font-family: Cooper Black;
+    font-size: 150%em;
+  }
+
+h2 {
+    background-color: teal;
+    color: white;
+  }
+
+h3 {
+    background-color: teal;
+    color: white;
+  }
+
+h4 {
+    font-variant: small-caps;
+  }
+
+/* links */
+
+a {
+    color: teal;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+
+
+
